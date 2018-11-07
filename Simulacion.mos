@@ -1,0 +1,3 @@
+loadFile("PosicionBocaArribaMO.mo");
+simulate(PosicionBocaArribaMO, stopTime=3.0);
+
